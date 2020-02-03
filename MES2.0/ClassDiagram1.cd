@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MES2._0.Element">
+    <Position X="11.75" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAgAAAAEAAIAAIAAAAAACAAgAAAAAAAEA=</HashCode>
+      <FileName>Element.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MES2._0.Grid">
+    <Position X="9.25" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAiCgAABBAAAIAAACAAACBAAAAAAIIAAQkCI0A=</HashCode>
+      <FileName>Grid.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MES2._0.GridService">
+    <Position X="6.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAEjAAAAAAAAACAABAAAAIAAgAAAAAAAgAAAAAA=</HashCode>
+      <FileName>GridService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MES2._0.InputData">
+    <Position X="6.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgCAAAAIAAAAEAAAAAAAAARCgAAgAACIAAAAAMAIAAA=</HashCode>
+      <FileName>InputData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MES2._0.Node">
+    <Position X="11.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAIAAAAAAAAAAAAAAAAAARgAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MES2._0.UniversalElement">
+    <Position X="3.5" Y="0.5" Width="3" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Struct Name="MES2._0.UniversalElement.PC" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UniversalElement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="MES2._0.UniversalElement.PcBC" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UniversalElement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="MES2._0.UniversalElement.Lateral_Surface" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>UniversalElement.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>IAQAIAICEBAAgQgICAAAMAAIAiAAQACAAAAAAAEAAEA=</HashCode>
+      <FileName>UniversalElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MES2._0.Program">
+    <Position X="8" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

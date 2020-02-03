@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MES2.0", "MES2.0\MES2.0.csproj", "{26BB38B6-6328-4CFE-A95A-2F7A9927F5F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MesGUI", "MesGUI\MesGUI.csproj", "{45374210-7436-4158-9486-27E234DB04C7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{0F0E86BA-3375-47FF-8A67-F8DAA2DC54E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26BB38B6-6328-4CFE-A95A-2F7A9927F5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BB38B6-6328-4CFE-A95A-2F7A9927F5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BB38B6-6328-4CFE-A95A-2F7A9927F5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BB38B6-6328-4CFE-A95A-2F7A9927F5F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45374210-7436-4158-9486-27E234DB04C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45374210-7436-4158-9486-27E234DB04C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45374210-7436-4158-9486-27E234DB04C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45374210-7436-4158-9486-27E234DB04C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0E86BA-3375-47FF-8A67-F8DAA2DC54E2}.Debug|Any CPU.ActiveCfg = Debug
+		{0F0E86BA-3375-47FF-8A67-F8DAA2DC54E2}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B91FFE99-2026-4DC5-BD44-6FD872F338BE}
+	EndGlobalSection
+EndGlobal
